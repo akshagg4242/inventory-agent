@@ -1,0 +1,14 @@
+Item Name,Category,Quantity,Condition,Location,Timestamp
+Laptop,Laptop,5,New,Lab 1,
+CPU,CPU,10,Used,Lab 2,
+USB Drive,USB Drive,20,New,Store,
+HDD,HDD,7,Used,Lab 3,
+Mouse,Accessory,15,New,Lab 4,6/16/2026 18:53:44
+Usb Drives,USB Drive,5,New,Lab 2,6/16/2026 20:08:46
+Printer,Accessory,2,New,Lab 4,6/16/2026 20:11:27
+Usb,USB Drive,4,Used,Lab 6,6/16/2026 22:40:06
+HDD,HDD,3,Used,Lab 6,6/17/2026 12:05:01
+HDD,HDD,1,New,Lab 8,6/17/2026 18:03:16
+HDD,HDD,1,New,Lab 9,6/17/2026 19:19:39
+HDD,HDD,1,New,Lab 10,6/17/2026 19:38:02
+USB Drive,USB Drive,12,Used,Lab 14,6/17/2026 19:42:27
